@@ -1,0 +1,1228 @@
+"Q25","GRM","Q28","Q29","Q30","PARTY","PARTYID","partisanship4","partisanship3","Q31","T_Cidentity","identity","Q39","AREAR","Q39_New","region","SEX","gender","Q32","AGE","age","Q33","EDU","edu","GRM_binary"
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",2,"Female",59,4,"50s",4,3,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",1,"Male",50,5,"60+",4,3,"Secondary",1
+1,"Rights",95,99,95,99,9,NA,NA,2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",2,"Female",68,3,"40s",5,4,"College",0
+1,"Rights",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",1,"Male",79,2,"30s",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",2,"Female",37,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",1,"Male",44,5,"60+",3,2,"Secondary",1
+96,NA,7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",1,"Male",77,2,"30s",6,5,"College",NA
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",1,"Male",68,3,"40s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",2,"Female",65,3,"40s",5,4,"College",1
+2,"Vengeance",96,99,96,99,8,"Neutral","Neutral",98,9,NA,2,7,"宜蘭縣","N_Taiwan",1,"Male",85,1,"20s",3,2,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",1,"Male",73,3,"40s",7,5,"Graduate",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",1,"Male",50,5,"60+",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",2,"Female",66,3,"40s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",2,"Female",55,4,"50s",4,3,"Secondary",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",1,"Male",53,5,"60+",5,4,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",1,"Male",58,4,"50s",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",1,"Male",48,5,"60+",5,4,"College",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",2,"Female",50,5,"60+",3,2,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",2,"Female",74,3,"40s",6,5,"College",0
+1,"Rights",7,99,3,3,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",2,7,"宜蘭縣","N_Taiwan",1,"Male",83,2,"30s",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",1,"Male",64,4,"50s",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",1,"Male",90,1,"20s",4,3,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",1,"Male",53,5,"60+",4,3,"Secondary",1
+1,"Rights",6,99,4,6,2,"Pan-Green","Pan-Green",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",2,"Female",73,3,"40s",4,3,"Secondary",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",98,9,NA,2,7,"宜蘭縣","N_Taiwan",1,"Male",52,5,"60+",3,2,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",1,"Male",63,4,"50s",5,4,"College",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",2,"Female",73,3,"40s",6,5,"College",1
+2,"Vengeance",96,99,3,3,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",2,7,"宜蘭縣","N_Taiwan",2,"Female",77,2,"30s",6,5,"College",1
+2,"Vengeance",98,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",2,7,"宜蘭縣","N_Taiwan",2,"Female",80,2,"30s",6,5,"College",1
+2,"Vengeance",97,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",2,"Female",53,5,"60+",4,3,"Secondary",1
+96,NA,95,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",1,"Male",60,4,"50s",7,5,"Graduate",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",2,"Female",65,3,"40s",7,5,"Graduate",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",1,"Male",70,3,"40s",7,5,"Graduate",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",2,"Female",39,5,"60+",4,3,"Secondary",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",2,"Female",76,2,"30s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",1,"Male",37,5,"60+",3,2,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",2,"Female",39,5,"60+",3,2,"Secondary",0
+98,NA,98,99,8,99,8,"Neutral","Neutral",98,9,NA,4,3,"新竹縣","N_Taiwan",2,"Female",32,5,"60+",1,1,"Elementary & Below",NA
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",2,"Female",35,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",2,"Female",53,5,"60+",7,5,"Graduate",1
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",2,"Female",66,3,"40s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",1,"Male",68,3,"40s",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",1,"Male",25,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",1,"Male",76,2,"30s",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",1,"Male",71,3,"40s",7,5,"Graduate",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",1,"Male",39,5,"60+",6,5,"College",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",1,"Male",54,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",2,"Female",51,5,"60+",3,2,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",97,9,NA,4,3,"新竹縣","N_Taiwan",1,"Male",68,3,"40s",7,5,"Graduate",1
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",1,"Male",68,3,"40s",7,5,"Graduate",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",1,"Male",68,3,"40s",6,5,"College",1
+2,"Vengeance",7,99,21,99,8,"Neutral","Neutral",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",1,"Male",61,4,"50s",5,4,"College",1
+1,"Rights",97,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",1,"Male",62,4,"50s",6,5,"College",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",1,"Male",81,2,"30s",7,5,"Graduate",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",1,"Male",84,2,"30s",6,5,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",4,3,"新竹縣","N_Taiwan",2,"Female",48,5,"60+",6,5,"College",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",2,"Female",66,3,"40s",6,5,"College",1
+97,NA,97,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",4,3,"新竹縣","N_Taiwan",2,"Female",71,3,"40s",4,3,"Secondary",NA
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",1,"Male",45,5,"60+",4,3,"Secondary",1
+98,NA,7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",2,"Female",55,4,"50s",3,2,"Secondary",NA
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",2,"Female",56,4,"50s",6,5,"College",0
+98,NA,6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",48,5,"60+",3,2,"Secondary",NA
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",2,"Female",70,3,"40s",7,5,"Graduate",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",2,"Female",83,2,"30s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",37,5,"60+",4,3,"Secondary",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",2,"Female",64,4,"50s",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",54,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",76,2,"30s",5,4,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",1,"Male",63,4,"50s",4,3,"Secondary",1
+96,NA,2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",42,5,"60+",4,3,"Secondary",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",40,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",48,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",2,"Female",63,4,"50s",5,4,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",93,1,"20s",6,5,"College",1
+1,"Rights",98,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",63,4,"50s",4,3,"Secondary",0
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",1,"Male",45,5,"60+",4,3,"Secondary",1
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",1,"Male",56,4,"50s",4,3,"Secondary",0
+1,"Rights",19,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",52,5,"60+",4,3,"Secondary",0
+1,"Rights",97,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",42,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",19,99,5,9,3,"Pan-Blue","KMT-TPP",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",1,"Male",46,5,"60+",6,5,"College",1
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",2,"Female",87,1,"20s",6,5,"College",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",92,1,"20s",3,2,"Secondary",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",63,4,"50s",4,3,"Secondary",0
+1,"Rights",7,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",1,"Male",79,2,"30s",7,5,"Graduate",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",1,"Male",61,4,"50s",5,4,"College",1
+98,NA,38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",2,"Female",84,2,"30s",6,5,"College",NA
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",5,3,"苗栗縣","M_Taiwan",1,"Male",56,4,"50s",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",5,3,"苗栗縣","M_Taiwan",1,"Male",72,3,"40s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",5,3,"苗栗縣","M_Taiwan",2,"Female",85,1,"20s",6,5,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",64,4,"50s",5,4,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",41,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",60,4,"50s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",29,5,"60+",7,5,"Graduate",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",36,5,"60+",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",66,3,"40s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",29,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",59,4,"50s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",44,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",38,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",42,5,"60+",6,5,"College",1
+97,NA,7,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",64,4,"50s",7,5,"Graduate",NA
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",76,2,"30s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",40,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",98,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",38,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",96,99,21,99,8,"Neutral","Neutral",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",45,5,"60+",4,3,"Secondary",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",81,2,"30s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",57,4,"50s",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",92,1,"20s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",7,4,"彰化縣","M_Taiwan",2,"Female",58,4,"50s",4,3,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",80,2,"30s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",73,3,"40s",6,5,"College",0
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",52,5,"60+",3,2,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",46,5,"60+",6,5,"College",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",71,3,"40s",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",2,"Female",70,3,"40s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",57,4,"50s",4,3,"Secondary",0
+98,NA,97,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",38,5,"60+",2,1,"Elementary & Below",NA
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",48,5,"60+",5,4,"College",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",65,3,"40s",5,4,"College",0
+97,NA,38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",83,2,"30s",5,4,"College",NA
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",45,5,"60+",2,1,"Elementary & Below",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",71,3,"40s",6,5,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",66,3,"40s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",64,4,"50s",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",54,5,"60+",4,3,"Secondary",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",46,5,"60+",5,4,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",39,5,"60+",5,4,"College",0
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",55,4,"50s",4,3,"Secondary",1
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",44,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",85,1,"20s",3,2,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",69,3,"40s",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",84,2,"30s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",55,4,"50s",7,5,"Graduate",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",98,9,NA,7,4,"彰化縣","M_Taiwan",1,"Male",60,4,"50s",2,1,"Elementary & Below",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",40,5,"60+",3,2,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",68,3,"40s",6,5,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",92,1,"20s",6,5,"College",1
+1,"Rights",95,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",88,1,"20s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",63,4,"50s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",80,2,"30s",6,5,"College",0
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",60,4,"50s",4,3,"Secondary",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",65,3,"40s",3,2,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",74,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",85,1,"20s",6,5,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",2,"Female",42,5,"60+",3,2,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",72,3,"40s",6,5,"College",1
+98,NA,6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",71,3,"40s",6,5,"College",NA
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",86,1,"20s",7,5,"Graduate",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",2,"Female",63,4,"50s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",82,2,"30s",6,5,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",75,2,"30s",4,3,"Secondary",1
+97,NA,96,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",77,2,"30s",7,5,"Graduate",NA
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",7,4,"彰化縣","M_Taiwan",1,"Male",55,4,"50s",6,5,"College",1
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",7,4,"彰化縣","M_Taiwan",1,"Male",66,3,"40s",4,3,"Secondary",0
+1,"Rights",98,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",91,1,"20s",6,5,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",93,1,"20s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",2,"Female",71,3,"40s",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",7,4,"彰化縣","M_Taiwan",1,"Male",72,3,"40s",4,3,"Secondary",1
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",8,4,"南投縣","M_Taiwan",1,"Male",54,5,"60+",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",8,4,"南投縣","M_Taiwan",1,"Male",70,3,"40s",5,4,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",8,4,"南投縣","M_Taiwan",2,"Female",55,4,"50s",5,4,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",8,4,"南投縣","M_Taiwan",1,"Male",53,5,"60+",3,2,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",2,"Female",49,5,"60+",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",1,"Male",75,2,"30s",6,5,"College",0
+1,"Rights",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",1,"Male",70,3,"40s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",2,"Female",73,3,"40s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",8,4,"南投縣","M_Taiwan",2,"Female",77,2,"30s",6,5,"College",1
+1,"Rights",98,99,21,99,8,"Neutral","Neutral",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",2,"Female",50,5,"60+",3,2,"Secondary",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",1,"Male",44,5,"60+",3,2,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",1,"Male",68,3,"40s",6,5,"College",0
+98,NA,97,99,97,99,9,NA,NA,1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",2,"Female",30,5,"60+",1,1,"Elementary & Below",NA
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",1,"Male",85,1,"20s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",1,"Male",74,3,"40s",5,4,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",8,4,"南投縣","M_Taiwan",2,"Female",70,3,"40s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",1,"Male",54,5,"60+",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",8,4,"南投縣","M_Taiwan",2,"Female",68,3,"40s",6,5,"College",0
+1,"Rights",6,99,21,99,8,"Neutral","Neutral",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",2,"Female",69,3,"40s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",2,"Female",57,4,"50s",4,3,"Secondary",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",1,"Male",93,1,"20s",6,5,"College",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",8,4,"南投縣","M_Taiwan",2,"Female",74,3,"40s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",2,"Female",78,2,"30s",4,3,"Secondary",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",1,"Male",89,1,"20s",7,5,"Graduate",0
+1,"Rights",7,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",8,4,"南投縣","M_Taiwan",2,"Female",76,2,"30s",6,5,"College",0
+1,"Rights",19,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",38,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",65,3,"40s",4,3,"Secondary",1
+2,"Vengeance",7,99,98,99,9,NA,NA,2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",36,5,"60+",7,5,"Graduate",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",71,3,"40s",6,5,"College",0
+1,"Rights",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",38,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",40,5,"60+",7,5,"Graduate",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",41,5,"60+",3,2,"Secondary",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",51,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",60,4,"50s",5,4,"College",0
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",62,4,"50s",3,2,"Secondary",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",78,2,"30s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",68,3,"40s",6,5,"College",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",90,1,"20s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",58,4,"50s",3,2,"Secondary",1
+98,NA,2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",39,5,"60+",2,1,"Elementary & Below",NA
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",55,4,"50s",5,4,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",68,3,"40s",6,5,"College",0
+98,NA,2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",35,5,"60+",2,1,"Elementary & Below",NA
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",56,4,"50s",5,4,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",28,5,"60+",4,3,"Secondary",1
+98,NA,1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",63,4,"50s",6,5,"College",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",47,5,"60+",4,3,"Secondary",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",48,5,"60+",3,2,"Secondary",1
+1,"Rights",7,99,21,99,8,"Neutral","Neutral",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",76,2,"30s",6,5,"College",0
+98,NA,98,99,98,99,9,NA,NA,1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",38,5,"60+",1,1,"Elementary & Below",NA
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",43,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",42,5,"60+",6,5,"College",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",42,5,"60+",5,4,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",68,3,"40s",5,4,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",46,5,"60+",5,4,"College",0
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",62,4,"50s",5,4,"College",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",57,4,"50s",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",98,9,NA,9,5,"雲林縣","Yun_Chia_Nan",1,"Male",38,5,"60+",3,2,"Secondary",1
+2,"Vengeance",98,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",36,5,"60+",1,1,"Elementary & Below",1
+97,NA,1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",32,5,"60+",3,2,"Secondary",NA
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",47,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",77,2,"30s",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",87,1,"20s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",66,3,"40s",3,2,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",67,3,"40s",4,3,"Secondary",0
+2,"Vengeance",19,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",71,3,"40s",6,5,"College",1
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",65,3,"40s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",63,4,"50s",6,5,"College",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",92,1,"20s",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",71,3,"40s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",62,4,"50s",4,3,"Secondary",1
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",98,9,NA,9,5,"雲林縣","Yun_Chia_Nan",1,"Male",83,2,"30s",6,5,"College",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",82,2,"30s",6,5,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",9,5,"雲林縣","Yun_Chia_Nan",2,"Female",78,2,"30s",7,5,"Graduate",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",51,5,"60+",3,2,"Secondary",1
+1,"Rights",97,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",83,2,"30s",7,5,"Graduate",0
+1,"Rights",98,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",82,2,"30s",7,5,"Graduate",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",9,5,"雲林縣","Yun_Chia_Nan",1,"Male",78,2,"30s",6,5,"College",1
+98,NA,7,99,98,99,9,NA,NA,1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",35,5,"60+",3,2,"Secondary",NA
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",61,4,"50s",5,4,"College",0
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",90,1,"20s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",995,9,NA,2,1,"Elementary & Below",0
+1,"Rights",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",38,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",43,5,"60+",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",45,5,"60+",5,4,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",60,4,"50s",5,4,"College",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",47,5,"60+",3,2,"Secondary",1
+98,NA,98,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",40,5,"60+",1,1,"Elementary & Below",NA
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",20,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",90,1,"20s",6,5,"College",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",43,5,"60+",5,4,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",48,5,"60+",3,2,"Secondary",1
+98,NA,2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",43,5,"60+",3,2,"Secondary",NA
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",95,9,NA,10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",48,5,"60+",95,9,NA,1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",77,2,"30s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",44,5,"60+",7,5,"Graduate",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",50,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",54,5,"60+",5,4,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",50,5,"60+",5,4,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",76,2,"30s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",24,5,"60+",3,2,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",84,2,"30s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",82,2,"30s",7,5,"Graduate",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",83,2,"30s",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",71,3,"40s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",98,9,NA,10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",75,2,"30s",4,3,"Secondary",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",2,"Female",66,3,"40s",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",67,3,"40s",2,1,"Elementary & Below",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",10,5,"嘉義縣","Yun_Chia_Nan",1,"Male",70,3,"40s",7,5,"Graduate",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",84,2,"30s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",2,"Female",52,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",96,99,98,99,9,NA,NA,2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",2,"Female",32,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",2,"Female",56,4,"50s",4,3,"Secondary",1
+1,"Rights",98,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",48,5,"60+",3,2,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",47,5,"60+",3,2,"Secondary",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",50,5,"60+",6,5,"College",1
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",2,"Female",57,4,"50s",4,3,"Secondary",1
+97,NA,7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",2,"Female",25,5,"60+",1,1,"Elementary & Below",NA
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",46,5,"60+",4,3,"Secondary",1
+1,"Rights",96,99,3,3,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",55,4,"50s",4,3,"Secondary",0
+95,NA,6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",73,3,"40s",4,3,"Secondary",NA
+1,"Rights",96,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",91,1,"20s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",82,2,"30s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",1,"Male",60,4,"50s",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",69,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",1,"Male",43,5,"60+",3,2,"Secondary",0
+98,NA,98,99,98,99,9,NA,NA,98,9,NA,13,6,"屏東縣","S_Taiwan",2,"Female",31,5,"60+",1,1,"Elementary & Below",NA
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",98,9,NA,13,6,"屏東縣","S_Taiwan",1,"Male",51,5,"60+",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",61,4,"50s",4,3,"Secondary",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",97,9,NA,13,6,"屏東縣","S_Taiwan",1,"Male",27,5,"60+",5,4,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",74,3,"40s",4,3,"Secondary",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",89,1,"20s",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",48,5,"60+",7,5,"Graduate",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",40,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",1,"Male",33,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",83,2,"30s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",40,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",91,1,"20s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",83,2,"30s",4,3,"Secondary",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",84,2,"30s",6,5,"College",0
+1,"Rights",7,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",2,"Female",92,1,"20s",4,3,"Secondary",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",93,1,"20s",4,3,"Secondary",0
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",1,"Male",55,4,"50s",5,4,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",1,"Male",72,3,"40s",4,3,"Secondary",1
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",77,2,"30s",6,5,"College",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",13,6,"屏東縣","S_Taiwan",1,"Male",87,1,"20s",4,3,"Secondary",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",3,3,"Chinese",13,6,"屏東縣","S_Taiwan",1,"Male",55,4,"50s",4,3,"Secondary",1
+1,"Rights",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",13,6,"屏東縣","S_Taiwan",2,"Female",62,4,"50s",6,5,"College",0
+2,"Vengeance",98,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",14,7,"臺東縣","S_Taiwan",2,"Female",80,2,"30s",6,5,"College",1
+1,"Rights",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",14,7,"臺東縣","S_Taiwan",1,"Male",89,1,"20s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",14,7,"臺東縣","S_Taiwan",1,"Male",60,4,"50s",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",14,7,"臺東縣","S_Taiwan",1,"Male",49,5,"60+",4,3,"Secondary",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",14,7,"臺東縣","S_Taiwan",2,"Female",42,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",97,99,97,99,9,NA,NA,1,1,"Taiwanese",15,7,"花蓮縣","M_Taiwan",2,"Female",42,5,"60+",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",15,7,"花蓮縣","M_Taiwan",2,"Female",49,5,"60+",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",15,7,"花蓮縣","M_Taiwan",1,"Male",57,4,"50s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",15,7,"花蓮縣","M_Taiwan",1,"Male",63,4,"50s",7,5,"Graduate",1
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",15,7,"花蓮縣","M_Taiwan",1,"Male",53,5,"60+",5,4,"College",0
+1,"Rights",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",15,7,"花蓮縣","M_Taiwan",1,"Male",69,3,"40s",4,3,"Secondary",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",98,9,NA,15,7,"花蓮縣","M_Taiwan",1,"Male",86,1,"20s",6,5,"College",1
+98,NA,1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",15,7,"花蓮縣","M_Taiwan",1,"Male",995,9,NA,3,2,"Secondary",NA
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",15,7,"花蓮縣","M_Taiwan",1,"Male",82,2,"30s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",15,7,"花蓮縣","M_Taiwan",1,"Male",80,2,"30s",7,5,"Graduate",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",15,7,"花蓮縣","M_Taiwan",1,"Male",82,2,"30s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",15,7,"花蓮縣","M_Taiwan",1,"Male",72,3,"40s",6,5,"College",0
+98,NA,2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",16,6,"澎湖縣","S_Taiwan",2,"Female",39,5,"60+",2,1,"Elementary & Below",NA
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",16,6,"澎湖縣","S_Taiwan",1,"Male",60,4,"50s",5,4,"College",1
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",16,6,"澎湖縣","S_Taiwan",1,"Male",40,5,"60+",3,2,"Secondary",1
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",16,6,"澎湖縣","S_Taiwan",2,"Female",41,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",16,6,"澎湖縣","S_Taiwan",2,"Female",60,4,"50s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",16,6,"澎湖縣","S_Taiwan",1,"Male",36,5,"60+",5,4,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",16,6,"澎湖縣","S_Taiwan",2,"Female",91,1,"20s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",16,6,"澎湖縣","S_Taiwan",2,"Female",81,2,"30s",7,5,"Graduate",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",16,6,"澎湖縣","S_Taiwan",1,"Male",87,1,"20s",5,4,"College",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",16,6,"澎湖縣","S_Taiwan",1,"Male",86,1,"20s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",16,6,"澎湖縣","S_Taiwan",1,"Male",47,5,"60+",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",1,"Male",34,5,"60+",2,1,"Elementary & Below",0
+97,NA,6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",17,2,"基隆市","N_Taiwan",2,"Female",37,5,"60+",7,5,"Graduate",NA
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",17,2,"基隆市","N_Taiwan",2,"Female",57,4,"50s",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",2,"Female",54,5,"60+",6,5,"College",1
+98,NA,98,99,98,99,9,NA,NA,2,2,"Dual identity",17,2,"基隆市","N_Taiwan",2,"Female",54,5,"60+",4,3,"Secondary",NA
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",17,2,"基隆市","N_Taiwan",1,"Male",40,5,"60+",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",17,2,"基隆市","N_Taiwan",2,"Female",44,5,"60+",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",1,"Male",39,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",1,"Male",73,3,"40s",6,5,"College",0
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",2,"Female",77,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",1,"Male",44,5,"60+",3,2,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",1,"Male",56,4,"50s",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",2,"Female",85,1,"20s",6,5,"College",0
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",17,2,"基隆市","N_Taiwan",2,"Female",61,4,"50s",5,4,"College",1
+2,"Vengeance",7,99,96,99,8,"Neutral","Neutral",2,2,"Dual identity",17,2,"基隆市","N_Taiwan",2,"Female",64,4,"50s",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",1,"Male",71,3,"40s",6,5,"College",1
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",17,2,"基隆市","N_Taiwan",2,"Female",49,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",1,"Male",82,2,"30s",7,5,"Graduate",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",2,"Female",70,3,"40s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",17,2,"基隆市","N_Taiwan",2,"Female",80,2,"30s",4,3,"Secondary",0
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",17,2,"基隆市","N_Taiwan",1,"Male",68,3,"40s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",2,"Female",52,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",1,"Male",65,3,"40s",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",2,"Female",56,4,"50s",7,5,"Graduate",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",2,"Female",70,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",1,"Male",89,1,"20s",6,5,"College",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",18,3,"新竹市","N_Taiwan",2,"Female",63,4,"50s",5,4,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",2,"Female",48,5,"60+",5,4,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",2,"Female",56,4,"50s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",18,3,"新竹市","N_Taiwan",2,"Female",50,5,"60+",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",2,"Female",39,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",1,"Male",64,4,"50s",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",2,"Female",54,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",1,"Male",66,3,"40s",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",1,"Male",80,2,"30s",6,5,"College",0
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",18,3,"新竹市","N_Taiwan",2,"Female",65,3,"40s",4,3,"Secondary",0
+97,NA,7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",18,3,"新竹市","N_Taiwan",1,"Male",66,3,"40s",7,5,"Graduate",NA
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",1,"Male",79,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",18,3,"新竹市","N_Taiwan",1,"Male",63,4,"50s",3,2,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",18,3,"新竹市","N_Taiwan",1,"Male",59,4,"50s",6,5,"College",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",18,3,"新竹市","N_Taiwan",1,"Male",78,2,"30s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",18,3,"新竹市","N_Taiwan",2,"Female",52,5,"60+",6,5,"College",1
+98,NA,1,2,99,2,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",18,3,"新竹市","N_Taiwan",1,"Male",49,5,"60+",3,2,"Secondary",NA
+98,NA,7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",2,"Female",69,3,"40s",6,5,"College",NA
+2,"Vengeance",97,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",18,3,"新竹市","N_Taiwan",2,"Female",70,3,"40s",6,5,"College",1
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",20,5,"嘉義市","Yun_Chia_Nan",1,"Male",83,2,"30s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",75,2,"30s",7,5,"Graduate",1
+2,"Vengeance",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",38,5,"60+",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",83,2,"30s",6,5,"College",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",47,5,"60+",5,4,"College",1
+1,"Rights",98,99,98,99,9,NA,NA,1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",40,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",20,5,"嘉義市","Yun_Chia_Nan",1,"Male",44,5,"60+",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",55,4,"50s",5,4,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",1,"Male",87,1,"20s",4,3,"Secondary",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",57,4,"50s",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",92,1,"20s",6,5,"College",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",20,5,"嘉義市","Yun_Chia_Nan",1,"Male",89,1,"20s",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",52,5,"60+",3,2,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",1,"Male",64,4,"50s",7,5,"Graduate",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",20,5,"嘉義市","Yun_Chia_Nan",1,"Male",67,3,"40s",7,5,"Graduate",1
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",1,"Male",85,1,"20s",7,5,"Graduate",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",2,"Female",51,5,"60+",4,3,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",20,5,"嘉義市","Yun_Chia_Nan",1,"Male",82,2,"30s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",57,4,"50s",7,5,"Graduate",0
+98,NA,98,99,98,99,9,NA,NA,1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",29,5,"60+",1,1,"Elementary & Below",NA
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",66,3,"40s",6,5,"College",1
+1,"Rights",98,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",28,5,"60+",3,2,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",42,5,"60+",5,4,"College",0
+2,"Vengeance",95,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",61,4,"50s",4,3,"Secondary",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",72,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",45,5,"60+",4,3,"Secondary",0
+1,"Rights",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",89,1,"20s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",54,5,"60+",7,5,"Graduate",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",33,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",89,1,"20s",6,5,"College",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",84,2,"30s",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",45,5,"60+",6,5,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",3,3,"Chinese",63,1,"臺北市","N_Taiwan",2,"Female",25,5,"60+",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",34,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",64,4,"50s",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",36,5,"60+",6,5,"College",0
+95,NA,1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",53,5,"60+",5,4,"College",NA
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",40,5,"60+",5,4,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",25,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",53,5,"60+",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",39,5,"60+",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",47,5,"60+",6,5,"College",1
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",69,3,"40s",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",68,3,"40s",5,4,"College",1
+1,"Rights",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",68,3,"40s",7,5,"Graduate",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",3,3,"Chinese",63,1,"臺北市","N_Taiwan",2,"Female",47,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",64,4,"50s",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",62,4,"50s",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",76,2,"30s",5,4,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",48,5,"60+",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",86,1,"20s",6,5,"College",1
+95,NA,1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",29,5,"60+",1,1,"Elementary & Below",NA
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",78,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",70,3,"40s",7,5,"Graduate",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",71,3,"40s",6,5,"College",1
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",43,5,"60+",3,2,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",41,5,"60+",7,5,"Graduate",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",43,5,"60+",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",48,5,"60+",5,4,"College",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",45,5,"60+",6,5,"College",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",65,3,"40s",4,3,"Secondary",1
+98,NA,38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",94,1,"20s",95,9,NA,NA
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",53,5,"60+",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",60,4,"50s",5,4,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",31,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",63,1,"臺北市","N_Taiwan",1,"Male",63,4,"50s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",42,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",55,4,"50s",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",38,5,"60+",4,3,"Secondary",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",63,4,"50s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",92,1,"20s",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",65,3,"40s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",58,4,"50s",7,5,"Graduate",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",63,1,"臺北市","N_Taiwan",2,"Female",50,5,"60+",6,5,"College",1
+1,"Rights",7,99,49,99,9,NA,NA,1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",91,1,"20s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",38,5,"60+",5,4,"College",0
+2,"Vengeance",7,99,21,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",35,5,"60+",6,5,"College",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",59,4,"50s",4,3,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",60,4,"50s",6,5,"College",1
+2,"Vengeance",97,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",92,1,"20s",6,5,"College",1
+98,NA,7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",41,5,"60+",2,1,"Elementary & Below",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",45,5,"60+",7,5,"Graduate",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",89,1,"20s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",64,4,"50s",6,5,"College",0
+1,"Rights",21,2,99,17,6,"Pan-Green","Pan-Green",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",43,5,"60+",4,3,"Secondary",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",73,3,"40s",7,5,"Graduate",0
+98,NA,7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",63,4,"50s",7,5,"Graduate",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",72,3,"40s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",53,5,"60+",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",37,5,"60+",3,2,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",49,5,"60+",3,2,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",71,3,"40s",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",74,3,"40s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",80,2,"30s",6,5,"College",0
+2,"Vengeance",6,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",40,5,"60+",5,4,"College",1
+2,"Vengeance",6,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",71,3,"40s",7,5,"Graduate",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",75,2,"30s",6,5,"College",0
+2,"Vengeance",21,2,99,17,6,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",78,2,"30s",7,5,"Graduate",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",65,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",72,3,"40s",6,5,"College",0
+1,"Rights",96,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",64,4,"50s",4,3,"Secondary",0
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",98,9,NA,63,1,"臺北市","N_Taiwan",2,"Female",78,2,"30s",6,5,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",74,3,"40s",7,5,"Graduate",1
+1,"Rights",7,99,96,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",76,2,"30s",6,5,"College",0
+1,"Rights",95,99,97,99,9,NA,NA,1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",46,5,"60+",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",87,1,"20s",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",67,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",72,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",77,2,"30s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",79,2,"30s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",93,1,"20s",4,3,"Secondary",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",67,3,"40s",6,5,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",87,1,"20s",7,5,"Graduate",1
+1,"Rights",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",57,4,"50s",6,5,"College",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",94,1,"20s",4,3,"Secondary",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",74,3,"40s",7,5,"Graduate",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",63,1,"臺北市","N_Taiwan",1,"Male",47,5,"60+",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",86,1,"20s",6,5,"College",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",77,2,"30s",7,5,"Graduate",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",74,3,"40s",6,5,"College",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",80,2,"30s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",48,5,"60+",7,5,"Graduate",0
+2,"Vengeance",96,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",47,5,"60+",6,5,"College",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",75,2,"30s",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",57,4,"50s",6,5,"College",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",40,5,"60+",6,5,"College",1
+97,NA,38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",73,3,"40s",7,5,"Graduate",NA
+96,NA,38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",82,2,"30s",7,5,"Graduate",NA
+1,"Rights",97,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",75,2,"30s",7,5,"Graduate",0
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",45,5,"60+",4,3,"Secondary",1
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",82,2,"30s",6,5,"College",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",56,4,"50s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",61,4,"50s",7,5,"Graduate",1
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",1,"Male",72,3,"40s",7,5,"Graduate",0
+1,"Rights",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",71,3,"40s",5,4,"College",0
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",2,"Female",87,1,"20s",6,5,"College",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",73,3,"40s",6,5,"College",1
+2,"Vengeance",7,99,96,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",61,4,"50s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",63,1,"臺北市","N_Taiwan",2,"Female",81,2,"30s",6,5,"College",0
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",2,2,"Dual identity",63,1,"臺北市","N_Taiwan",1,"Male",76,2,"30s",7,5,"Graduate",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",51,5,"60+",7,5,"Graduate",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",47,5,"60+",3,2,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",44,5,"60+",3,2,"Secondary",0
+98,NA,98,99,98,99,9,NA,NA,1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",25,5,"60+",4,3,"Secondary",NA
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",44,5,"60+",4,3,"Secondary",0
+1,"Rights",97,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",41,5,"60+",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",31,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",42,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",45,5,"60+",6,5,"College",1
+96,NA,2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",27,5,"60+",1,1,"Elementary & Below",NA
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",62,4,"50s",5,4,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",55,4,"50s",5,4,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",67,3,"40s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",38,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",57,4,"50s",4,3,"Secondary",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",45,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",43,5,"60+",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",67,3,"40s",5,4,"College",0
+98,NA,2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",39,5,"60+",3,2,"Secondary",NA
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",65,3,"40s",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",39,5,"60+",4,3,"Secondary",1
+2,"Vengeance",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",68,3,"40s",5,4,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",70,3,"40s",4,3,"Secondary",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",3,3,"Chinese",64,6,"高雄市","S_Taiwan",2,"Female",45,5,"60+",5,4,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",50,5,"60+",3,2,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",86,1,"20s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",42,5,"60+",1,1,"Elementary & Below",0
+95,NA,95,99,95,99,9,NA,NA,95,9,NA,64,6,"高雄市","S_Taiwan",1,"Male",25,5,"60+",2,1,"Elementary & Below",NA
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",41,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",42,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",79,2,"30s",6,5,"College",0
+1,"Rights",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",73,3,"40s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",59,4,"50s",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",76,2,"30s",7,5,"Graduate",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",63,4,"50s",7,5,"Graduate",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",66,3,"40s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",3,3,"Chinese",64,6,"高雄市","S_Taiwan",1,"Male",77,2,"30s",7,5,"Graduate",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",47,5,"60+",1,1,"Elementary & Below",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",49,5,"60+",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",49,5,"60+",4,3,"Secondary",0
+2,"Vengeance",19,99,21,99,8,"Neutral","Neutral",95,9,NA,64,6,"高雄市","S_Taiwan",2,"Female",995,9,NA,95,9,NA,1
+1,"Rights",98,99,97,99,9,NA,NA,3,3,"Chinese",64,6,"高雄市","S_Taiwan",2,"Female",45,5,"60+",4,3,"Secondary",0
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",73,3,"40s",6,5,"College",0
+1,"Rights",95,99,95,99,9,NA,NA,1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",43,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",65,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",72,3,"40s",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",88,1,"20s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",44,5,"60+",4,3,"Secondary",0
+98,NA,6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",61,4,"50s",4,3,"Secondary",NA
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",53,5,"60+",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",60,4,"50s",5,4,"College",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",54,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",55,4,"50s",5,4,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",47,5,"60+",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",45,5,"60+",4,3,"Secondary",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",70,3,"40s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",37,5,"60+",7,5,"Graduate",0
+1,"Rights",19,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",64,4,"50s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",55,4,"50s",6,5,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",35,5,"60+",3,2,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",45,5,"60+",4,3,"Secondary",1
+96,NA,96,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",43,5,"60+",4,3,"Secondary",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",38,5,"60+",3,2,"Secondary",0
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",98,9,NA,64,6,"高雄市","S_Taiwan",1,"Male",58,4,"50s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",70,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",79,2,"30s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",77,2,"30s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",65,3,"40s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",36,5,"60+",2,1,"Elementary & Below",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",59,4,"50s",5,4,"College",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",67,3,"40s",6,5,"College",1
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",62,4,"50s",5,4,"College",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",52,5,"60+",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",47,5,"60+",3,2,"Secondary",0
+98,NA,6,99,98,99,9,NA,NA,1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",29,5,"60+",1,1,"Elementary & Below",NA
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",71,3,"40s",4,3,"Secondary",1
+96,NA,2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",51,5,"60+",7,5,"Graduate",NA
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",47,5,"60+",3,2,"Secondary",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",71,3,"40s",7,5,"Graduate",1
+1,"Rights",96,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",38,5,"60+",6,5,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",64,6,"高雄市","S_Taiwan",1,"Male",43,5,"60+",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",85,1,"20s",6,5,"College",0
+1,"Rights",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",64,4,"50s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",37,5,"60+",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",42,5,"60+",4,3,"Secondary",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",61,4,"50s",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",59,4,"50s",6,5,"College",0
+1,"Rights",98,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",38,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",41,5,"60+",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",36,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",68,3,"40s",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",69,3,"40s",6,5,"College",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",52,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",66,3,"40s",5,4,"College",0
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",46,5,"60+",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",58,4,"50s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",66,3,"40s",6,5,"College",0
+95,NA,95,99,95,99,9,NA,NA,1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",72,3,"40s",7,5,"Graduate",NA
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",92,1,"20s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",71,3,"40s",7,5,"Graduate",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",77,2,"30s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",61,4,"50s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",66,3,"40s",5,4,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",94,1,"20s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",78,2,"30s",4,3,"Secondary",0
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",60,4,"50s",6,5,"College",0
+1,"Rights",96,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",88,1,"20s",7,5,"Graduate",0
+1,"Rights",7,99,95,99,9,NA,NA,95,9,NA,64,6,"高雄市","S_Taiwan",2,"Female",995,9,NA,6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",92,1,"20s",6,5,"College",0
+1,"Rights",7,99,3,3,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",69,3,"40s",5,4,"College",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",68,3,"40s",7,5,"Graduate",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",92,1,"20s",4,3,"Secondary",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",86,1,"20s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",2,"Female",88,1,"20s",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",62,4,"50s",2,1,"Elementary & Below",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",73,3,"40s",7,5,"Graduate",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",87,1,"20s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",83,2,"30s",6,5,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",70,3,"40s",7,5,"Graduate",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",80,2,"30s",6,5,"College",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",75,2,"30s",7,5,"Graduate",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",52,5,"60+",4,3,"Secondary",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",78,2,"30s",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",64,6,"高雄市","S_Taiwan",1,"Male",52,5,"60+",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",81,2,"30s",6,5,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",67,3,"40s",4,3,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",63,4,"50s",5,4,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",89,1,"20s",7,5,"Graduate",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",56,4,"50s",7,5,"Graduate",1
+1,"Rights",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",58,4,"50s",2,1,"Elementary & Below",0
+1,"Rights",95,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",2,"Female",74,3,"40s",6,5,"College",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",76,2,"30s",6,5,"College",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",64,6,"高雄市","S_Taiwan",1,"Male",75,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",64,4,"50s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",63,4,"50s",3,2,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",64,6,"高雄市","S_Taiwan",1,"Male",76,2,"30s",6,5,"College",1
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",64,4,"50s",5,4,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",47,5,"60+",6,5,"College",0
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",55,4,"50s",3,2,"Secondary",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",42,5,"60+",5,4,"College",1
+1,"Rights",98,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",55,4,"50s",3,2,"Secondary",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",42,5,"60+",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",48,5,"60+",5,4,"College",0
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",69,3,"40s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",44,5,"60+",3,2,"Secondary",0
+2,"Vengeance",96,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",50,5,"60+",4,3,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",73,3,"40s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",48,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",71,3,"40s",6,5,"College",1
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",86,1,"20s",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",87,1,"20s",7,5,"Graduate",1
+2,"Vengeance",7,99,18,99,9,NA,NA,1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",70,3,"40s",4,3,"Secondary",1
+96,NA,6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",47,5,"60+",2,1,"Elementary & Below",NA
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",82,2,"30s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",52,5,"60+",5,4,"College",0
+1,"Rights",96,99,24,18,6,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",55,4,"50s",7,5,"Graduate",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",55,4,"50s",5,4,"College",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",40,5,"60+",6,5,"College",1
+2,"Vengeance",6,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",38,5,"60+",3,2,"Secondary",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",72,3,"40s",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",42,5,"60+",7,5,"Graduate",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",44,5,"60+",5,4,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",86,1,"20s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",60,4,"50s",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",93,1,"20s",6,5,"College",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",72,3,"40s",4,3,"Secondary",1
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",33,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,2,"新北市","N_Taiwan",2,"Female",82,2,"30s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",54,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",94,1,"20s",4,3,"Secondary",1
+2,"Vengeance",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",79,2,"30s",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",80,2,"30s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",46,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",44,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",45,5,"60+",3,2,"Secondary",1
+1,"Rights",98,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",36,5,"60+",1,1,"Elementary & Below",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",96,9,NA,65,1,"新北市","N_Taiwan",2,"Female",75,2,"30s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",52,5,"60+",7,5,"Graduate",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",71,3,"40s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",45,5,"60+",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",82,2,"30s",4,3,"Secondary",0
+2,"Vengeance",96,99,96,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",40,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",63,4,"50s",6,5,"College",1
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",50,5,"60+",6,5,"College",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",51,5,"60+",5,4,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",75,2,"30s",6,5,"College",1
+1,"Rights",6,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",67,3,"40s",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",60,4,"50s",5,4,"College",1
+1,"Rights",96,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",30,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",60,4,"50s",6,5,"College",1
+2,"Vengeance",7,99,96,99,8,"Neutral","Neutral",2,2,"Dual identity",65,2,"新北市","N_Taiwan",2,"Female",76,2,"30s",6,5,"College",1
+1,"Rights",7,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",86,1,"20s",3,2,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",39,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",42,5,"60+",5,4,"College",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",56,4,"50s",5,4,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",60,4,"50s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",45,5,"60+",3,2,"Secondary",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",46,5,"60+",5,4,"College",1
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",76,2,"30s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",66,3,"40s",5,4,"College",1
+1,"Rights",96,99,98,99,9,NA,NA,1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",45,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",41,5,"60+",5,4,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",73,3,"40s",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",49,5,"60+",5,4,"College",1
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",40,5,"60+",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",60,4,"50s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",59,4,"50s",5,4,"College",0
+98,NA,2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",50,5,"60+",3,2,"Secondary",NA
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",84,2,"30s",7,5,"Graduate",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",32,5,"60+",3,2,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",38,5,"60+",7,5,"Graduate",0
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",56,4,"50s",4,3,"Secondary",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",98,9,NA,65,1,"新北市","N_Taiwan",1,"Male",76,2,"30s",4,3,"Secondary",0
+98,NA,7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",81,2,"30s",6,5,"College",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",40,5,"60+",4,3,"Secondary",0
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",60,4,"50s",4,3,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",46,5,"60+",4,3,"Secondary",1
+1,"Rights",20,2,99,99,9,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",73,3,"40s",6,5,"College",0
+96,NA,6,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",48,5,"60+",4,3,"Secondary",NA
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",39,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",53,5,"60+",6,5,"College",0
+1,"Rights",19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",67,3,"40s",4,3,"Secondary",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",80,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",75,2,"30s",4,3,"Secondary",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",40,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",40,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",41,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",83,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,2,"新北市","N_Taiwan",2,"Female",63,4,"50s",5,4,"College",1
+96,NA,1,1,99,1,1,"Pan-Blue","KMT-TPP",98,9,NA,65,1,"新北市","N_Taiwan",2,"Female",46,5,"60+",5,4,"College",NA
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,2,"新北市","N_Taiwan",2,"Female",60,4,"50s",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",65,3,"40s",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",32,5,"60+",6,5,"College",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",64,4,"50s",7,5,"Graduate",0
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",72,3,"40s",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",45,5,"60+",3,2,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",41,5,"60+",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",38,5,"60+",7,5,"Graduate",1
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",41,5,"60+",4,3,"Secondary",1
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",34,5,"60+",1,1,"Elementary & Below",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",85,1,"20s",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",56,4,"50s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",69,3,"40s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",57,4,"50s",4,3,"Secondary",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",39,5,"60+",7,5,"Graduate",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",53,5,"60+",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",54,5,"60+",7,5,"Graduate",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",88,1,"20s",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",63,4,"50s",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",48,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",57,4,"50s",5,4,"College",1
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",59,4,"50s",6,5,"College",1
+1,"Rights",96,99,8,99,8,"Neutral","Neutral",98,9,NA,65,2,"新北市","N_Taiwan",1,"Male",48,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",48,5,"60+",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",61,4,"50s",6,5,"College",0
+98,NA,7,99,21,99,8,"Neutral","Neutral",98,9,NA,65,1,"新北市","N_Taiwan",2,"Female",60,4,"50s",3,2,"Secondary",NA
+1,"Rights",21,2,99,17,6,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",81,2,"30s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",57,4,"50s",95,9,NA,0
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",43,5,"60+",2,1,"Elementary & Below",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",57,4,"50s",3,2,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",69,3,"40s",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",35,5,"60+",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",81,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",63,4,"50s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",58,4,"50s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",68,3,"40s",5,4,"College",0
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",67,3,"40s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",85,1,"20s",5,4,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",87,1,"20s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",3,3,"Chinese",65,1,"新北市","N_Taiwan",1,"Male",53,5,"60+",4,3,"Secondary",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",84,2,"30s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",94,1,"20s",6,5,"College",1
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",80,2,"30s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",55,4,"50s",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",61,4,"50s",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",72,3,"40s",7,5,"Graduate",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",59,4,"50s",5,4,"College",0
+1,"Rights",35,1,99,99,9,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",43,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",26,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",54,5,"60+",3,2,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",75,2,"30s",5,4,"College",1
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",44,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",59,4,"50s",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",67,3,"40s",6,5,"College",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",59,4,"50s",6,5,"College",1
+2,"Vengeance",7,99,4,6,2,"Pan-Green","Pan-Green",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",69,3,"40s",5,4,"College",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",80,2,"30s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",62,4,"50s",6,5,"College",0
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",78,2,"30s",6,5,"College",1
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",91,1,"20s",6,5,"College",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",94,1,"20s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",63,4,"50s",4,3,"Secondary",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",68,3,"40s",6,5,"College",1
+1,"Rights",7,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",74,3,"40s",6,5,"College",0
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",76,2,"30s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",84,2,"30s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",82,2,"30s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",38,5,"60+",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",78,2,"30s",7,5,"Graduate",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",67,3,"40s",7,5,"Graduate",1
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",74,3,"40s",5,4,"College",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",93,1,"20s",4,3,"Secondary",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",85,1,"20s",7,5,"Graduate",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",86,1,"20s",6,5,"College",0
+97,NA,1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",2,"Female",60,4,"50s",7,5,"Graduate",NA
+96,NA,21,1,99,16,6,"Pan-Green","Pan-Green",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",73,3,"40s",6,5,"College",NA
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",93,1,"20s",3,2,"Secondary",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",70,3,"40s",7,5,"Graduate",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",65,1,"新北市","N_Taiwan",1,"Male",62,4,"50s",5,4,"College",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",82,2,"30s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",1,"Male",60,4,"50s",4,3,"Secondary",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",60,4,"50s",5,4,"College",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",81,2,"30s",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",84,2,"30s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",65,3,"40s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",75,2,"30s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",3,3,"Chinese",65,1,"新北市","N_Taiwan",1,"Male",89,1,"20s",7,5,"Graduate",1
+1,"Rights",97,99,8,99,8,"Neutral","Neutral",97,9,NA,65,1,"新北市","N_Taiwan",2,"Female",60,4,"50s",7,5,"Graduate",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",76,2,"30s",7,5,"Graduate",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",93,1,"20s",6,5,"College",0
+95,NA,7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",87,1,"20s",6,5,"College",NA
+1,"Rights",97,99,3,3,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",63,4,"50s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,2,"新北市","N_Taiwan",2,"Female",63,4,"50s",7,5,"Graduate",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",82,2,"30s",7,5,"Graduate",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",83,2,"30s",7,5,"Graduate",0
+96,NA,7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",63,4,"50s",5,4,"College",NA
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",70,3,"40s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",2,"Female",76,2,"30s",6,5,"College",1
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",84,2,"30s",5,4,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",1,"Male",64,4,"50s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,1,"新北市","N_Taiwan",2,"Female",67,3,"40s",4,3,"Secondary",0
+96,NA,7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",59,4,"50s",5,4,"College",NA
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",77,2,"30s",6,5,"College",0
+98,NA,7,99,8,99,8,"Neutral","Neutral",98,9,NA,65,2,"新北市","N_Taiwan",2,"Female",46,5,"60+",7,5,"Graduate",NA
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",65,2,"新北市","N_Taiwan",1,"Male",83,2,"30s",7,5,"Graduate",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",65,1,"新北市","N_Taiwan",1,"Male",81,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",65,2,"新北市","N_Taiwan",2,"Female",45,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",59,4,"50s",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",86,1,"20s",4,3,"Secondary",1
+2,"Vengeance",97,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",56,4,"50s",3,2,"Secondary",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",78,2,"30s",7,5,"Graduate",1
+2,"Vengeance",95,99,95,99,9,NA,NA,95,9,NA,66,4,"臺中市","M_Taiwan",2,"Female",995,9,NA,5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",92,1,"20s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",48,5,"60+",5,4,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",71,3,"40s",6,5,"College",0
+95,NA,19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",60,4,"50s",5,4,"College",NA
+2,"Vengeance",98,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",45,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",89,1,"20s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",60,4,"50s",7,5,"Graduate",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",96,9,NA,66,4,"臺中市","M_Taiwan",2,"Female",51,5,"60+",4,3,"Secondary",0
+2,"Vengeance",6,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",62,4,"50s",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",69,3,"40s",6,5,"College",1
+2,"Vengeance",97,99,97,99,9,NA,NA,1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",48,5,"60+",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",66,4,"臺中市","M_Taiwan",2,"Female",60,4,"50s",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",52,5,"60+",4,3,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",76,2,"30s",6,5,"College",1
+1,"Rights",19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",71,3,"40s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",35,5,"60+",3,2,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",40,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",48,5,"60+",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",87,1,"20s",6,5,"College",0
+98,NA,98,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",43,5,"60+",3,2,"Secondary",NA
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",32,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",32,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",64,4,"50s",7,5,"Graduate",0
+2,"Vengeance",96,99,96,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",43,5,"60+",4,3,"Secondary",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",57,4,"50s",4,3,"Secondary",1
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",30,5,"60+",2,1,"Elementary & Below",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",72,3,"40s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",48,5,"60+",4,3,"Secondary",0
+98,NA,98,99,98,99,9,NA,NA,98,9,NA,66,4,"臺中市","M_Taiwan",2,"Female",44,5,"60+",2,1,"Elementary & Below",NA
+2,"Vengeance",95,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",61,4,"50s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",46,5,"60+",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",65,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",44,5,"60+",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",57,4,"50s",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",56,4,"50s",5,4,"College",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",70,3,"40s",5,4,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",55,4,"50s",4,3,"Secondary",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",62,4,"50s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",68,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",71,3,"40s",6,5,"College",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",92,1,"20s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",53,5,"60+",4,3,"Secondary",0
+98,NA,98,99,98,99,9,NA,NA,98,9,NA,66,4,"臺中市","M_Taiwan",2,"Female",33,5,"60+",2,1,"Elementary & Below",NA
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",59,4,"50s",6,5,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",57,4,"50s",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",54,5,"60+",7,5,"Graduate",1
+1,"Rights",19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",38,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",38,5,"60+",4,3,"Secondary",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",87,1,"20s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",74,3,"40s",6,5,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",995,9,NA,3,2,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",84,2,"30s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",47,5,"60+",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",52,5,"60+",4,3,"Secondary",1
+1,"Rights",7,99,19,99,9,NA,NA,1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",71,3,"40s",5,4,"College",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",46,5,"60+",5,4,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",53,5,"60+",6,5,"College",1
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",82,2,"30s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",70,3,"40s",4,3,"Secondary",0
+1,"Rights",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",64,4,"50s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",83,2,"30s",7,5,"Graduate",1
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",40,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",70,3,"40s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",67,3,"40s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",78,2,"30s",3,2,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",44,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",40,5,"60+",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",83,2,"30s",7,5,"Graduate",0
+1,"Rights",21,1,99,16,6,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",42,5,"60+",6,5,"College",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",74,3,"40s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",80,2,"30s",6,5,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",64,4,"50s",4,3,"Secondary",1
+98,NA,98,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",25,5,"60+",1,1,"Elementary & Below",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",50,5,"60+",5,4,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",72,3,"40s",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",72,3,"40s",7,5,"Graduate",0
+2,"Vengeance",96,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",71,3,"40s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",93,1,"20s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",71,3,"40s",6,5,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",78,2,"30s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",67,3,"40s",6,5,"College",0
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",82,2,"30s",6,5,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",59,4,"50s",6,5,"College",1
+1,"Rights",95,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",89,1,"20s",6,5,"College",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",98,9,NA,66,4,"臺中市","M_Taiwan",1,"Male",62,4,"50s",6,5,"College",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",86,1,"20s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",63,4,"50s",7,5,"Graduate",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",64,4,"50s",4,3,"Secondary",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",66,3,"40s",7,5,"Graduate",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",89,1,"20s",6,5,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",72,3,"40s",3,2,"Secondary",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",93,1,"20s",3,2,"Secondary",0
+1,"Rights",7,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",81,2,"30s",7,5,"Graduate",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",87,1,"20s",6,5,"College",1
+97,NA,97,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",79,2,"30s",6,5,"College",NA
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",89,1,"20s",6,5,"College",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",87,1,"20s",6,5,"College",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",61,4,"50s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",83,2,"30s",6,5,"College",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",77,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",70,3,"40s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",69,3,"40s",5,4,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",60,4,"50s",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",82,2,"30s",4,3,"Secondary",1
+1,"Rights",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",88,1,"20s",5,4,"College",0
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",80,2,"30s",7,5,"Graduate",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",90,1,"20s",7,5,"Graduate",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",80,2,"30s",6,5,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",75,2,"30s",6,5,"College",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",50,5,"60+",5,4,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",57,4,"50s",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",66,4,"臺中市","M_Taiwan",1,"Male",46,5,"60+",6,5,"College",1
+1,"Rights",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",42,5,"60+",5,4,"College",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",82,2,"30s",6,5,"College",0
+1,"Rights",6,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",91,1,"20s",6,5,"College",0
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",72,3,"40s",5,4,"College",1
+2,"Vengeance",7,99,24,18,6,"Pan-Green","Pan-Green",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",60,4,"50s",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",63,4,"50s",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",53,5,"60+",5,4,"College",1
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",98,9,NA,66,4,"臺中市","M_Taiwan",1,"Male",82,2,"30s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",89,1,"20s",6,5,"College",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",73,3,"40s",4,3,"Secondary",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",92,1,"20s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",2,"Female",44,5,"60+",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",77,2,"30s",3,2,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",1,"Male",69,3,"40s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",66,4,"臺中市","M_Taiwan",1,"Male",61,4,"50s",4,3,"Secondary",0
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",66,4,"臺中市","M_Taiwan",2,"Female",78,2,"30s",6,5,"College",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",63,4,"50s",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",52,5,"60+",6,5,"College",1
+2,"Vengeance",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",42,5,"60+",4,3,"Secondary",1
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",51,5,"60+",3,2,"Secondary",1
+2,"Vengeance",19,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",57,4,"50s",4,3,"Secondary",1
+2,"Vengeance",95,99,96,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",50,5,"60+",3,2,"Secondary",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",46,5,"60+",3,2,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",30,5,"60+",2,1,"Elementary & Below",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",45,5,"60+",3,2,"Secondary",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",41,5,"60+",1,1,"Elementary & Below",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",59,4,"50s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",65,3,"40s",5,4,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",43,5,"60+",2,1,"Elementary & Below",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",65,3,"40s",7,5,"Graduate",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",50,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",46,5,"60+",3,2,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",65,3,"40s",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",61,4,"50s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",60,4,"50s",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",31,5,"60+",1,1,"Elementary & Below",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",58,4,"50s",4,3,"Secondary",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",45,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",66,3,"40s",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",43,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",30,5,"60+",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",80,2,"30s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",54,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",36,5,"60+",1,1,"Elementary & Below",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",46,5,"60+",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",66,3,"40s",6,5,"College",0
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",55,4,"50s",6,5,"College",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",70,3,"40s",4,3,"Secondary",1
+1,"Rights",98,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",69,3,"40s",6,5,"College",0
+1,"Rights",97,99,97,99,9,NA,NA,2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",65,3,"40s",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",40,5,"60+",5,4,"College",0
+1,"Rights",98,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",78,2,"30s",6,5,"College",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",71,3,"40s",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",98,9,NA,67,5,"臺南市","Yun_Chia_Nan",1,"Male",40,5,"60+",6,5,"College",1
+1,"Rights",98,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",52,5,"60+",3,2,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",95,9,NA,67,5,"臺南市","Yun_Chia_Nan",2,"Female",52,5,"60+",5,4,"College",1
+98,NA,19,99,8,99,8,"Neutral","Neutral",98,9,NA,67,5,"臺南市","Yun_Chia_Nan",2,"Female",45,5,"60+",2,1,"Elementary & Below",NA
+98,NA,7,99,8,99,8,"Neutral","Neutral",98,9,NA,67,5,"臺南市","Yun_Chia_Nan",2,"Female",75,2,"30s",6,5,"College",NA
+98,NA,7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",34,5,"60+",2,1,"Elementary & Below",NA
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",49,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",37,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",98,9,NA,67,5,"臺南市","Yun_Chia_Nan",2,"Female",54,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",41,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",32,5,"60+",2,1,"Elementary & Below",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",32,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",73,3,"40s",6,5,"College",1
+1,"Rights",96,99,96,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",64,4,"50s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",47,5,"60+",4,3,"Secondary",1
+98,NA,96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",74,3,"40s",5,4,"College",NA
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",85,1,"20s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",55,4,"50s",3,2,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",66,3,"40s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",63,4,"50s",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",52,5,"60+",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",43,5,"60+",2,1,"Elementary & Below",0
+96,NA,19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",42,5,"60+",2,1,"Elementary & Below",NA
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",65,3,"40s",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",55,4,"50s",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",51,5,"60+",4,3,"Secondary",0
+2,"Vengeance",98,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",28,5,"60+",3,2,"Secondary",1
+98,NA,7,99,98,99,9,NA,NA,1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",37,5,"60+",1,1,"Elementary & Below",NA
+98,NA,2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",51,5,"60+",4,3,"Secondary",NA
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",76,2,"30s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",71,3,"40s",6,5,"College",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",61,4,"50s",6,5,"College",0
+1,"Rights",98,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",68,3,"40s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",71,3,"40s",7,5,"Graduate",0
+2,"Vengeance",96,99,3,3,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",78,2,"30s",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",995,9,NA,95,9,NA,1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",56,4,"50s",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",92,1,"20s",6,5,"College",1
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",44,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",68,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",68,3,"40s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",81,2,"30s",6,5,"College",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",55,4,"50s",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",54,5,"60+",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",81,2,"30s",6,5,"College",0
+98,NA,98,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",52,5,"60+",4,3,"Secondary",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",60,4,"50s",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",68,3,"40s",7,5,"Graduate",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",71,3,"40s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",31,5,"60+",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",64,4,"50s",4,3,"Secondary",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",85,1,"20s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",84,2,"30s",7,5,"Graduate",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",77,2,"30s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",69,3,"40s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",69,3,"40s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",55,4,"50s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",79,2,"30s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",69,3,"40s",7,5,"Graduate",0
+2,"Vengeance",2,1,99,4,2,"Pan-Green","Pan-Green",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",74,3,"40s",4,3,"Secondary",1
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",68,3,"40s",7,5,"Graduate",1
+1,"Rights",97,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",75,2,"30s",4,3,"Secondary",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",73,3,"40s",4,3,"Secondary",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",79,2,"30s",4,3,"Secondary",1
+96,NA,7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",60,4,"50s",7,5,"Graduate",NA
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",57,4,"50s",4,3,"Secondary",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",2,"Female",82,2,"30s",7,5,"Graduate",1
+2,"Vengeance",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",60,4,"50s",6,5,"College",1
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",83,2,"30s",6,5,"College",0
+97,NA,7,99,8,99,8,"Neutral","Neutral",98,9,NA,67,5,"臺南市","Yun_Chia_Nan",1,"Male",70,3,"40s",5,4,"College",NA
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",79,2,"30s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",87,1,"20s",6,5,"College",0
+1,"Rights",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",79,2,"30s",7,5,"Graduate",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",67,5,"臺南市","Yun_Chia_Nan",1,"Male",79,2,"30s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",85,1,"20s",6,5,"College",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",89,1,"20s",7,5,"Graduate",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",62,4,"50s",3,2,"Secondary",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",98,9,NA,67,5,"臺南市","Yun_Chia_Nan",2,"Female",44,5,"60+",3,2,"Secondary",1
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",1,"Male",85,1,"20s",6,5,"College",0
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",67,5,"臺南市","Yun_Chia_Nan",2,"Female",64,4,"50s",3,2,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",45,5,"60+",3,2,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",44,5,"60+",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",44,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",32,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",58,4,"50s",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",67,3,"40s",4,3,"Secondary",1
+97,NA,2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",68,3,"40s",7,5,"Graduate",NA
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",67,3,"40s",6,5,"College",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",66,3,"40s",5,4,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",37,5,"60+",3,2,"Secondary",0
+96,NA,1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",75,2,"30s",6,5,"College",NA
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",77,2,"30s",6,5,"College",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",95,9,NA,68,3,"桃園市","N_Taiwan",2,"Female",93,1,"20s",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",55,4,"50s",7,5,"Graduate",0
+96,NA,1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",58,4,"50s",4,3,"Secondary",NA
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",62,4,"50s",5,4,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",63,4,"50s",7,5,"Graduate",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",89,1,"20s",6,5,"College",0
+2,"Vengeance",97,99,97,99,9,NA,NA,2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",57,4,"50s",4,3,"Secondary",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",33,5,"60+",4,3,"Secondary",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",23,5,"60+",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",51,5,"60+",2,1,"Elementary & Below",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",68,3,"40s",4,3,"Secondary",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",47,5,"60+",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",43,5,"60+",6,5,"College",1
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",62,4,"50s",5,4,"College",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",32,5,"60+",2,1,"Elementary & Below",1
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",39,5,"60+",5,4,"College",0
+1,"Rights",96,99,96,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",66,3,"40s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",40,5,"60+",5,4,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",70,3,"40s",5,4,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",68,3,"桃園市","N_Taiwan",1,"Male",59,4,"50s",5,4,"College",1
+2,"Vengeance",98,99,41,21,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",65,3,"40s",6,5,"College",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",90,1,"20s",6,5,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",57,4,"50s",4,3,"Secondary",1
+98,NA,96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",38,5,"60+",2,1,"Elementary & Below",NA
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",71,3,"40s",6,5,"College",0
+1,"Rights",19,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",61,4,"50s",6,5,"College",0
+1,"Rights",7,99,3,3,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",54,5,"60+",5,4,"College",0
+96,NA,96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",69,3,"40s",5,4,"College",NA
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",42,5,"60+",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",90,1,"20s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",70,3,"40s",4,3,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",65,3,"40s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",41,5,"60+",4,3,"Secondary",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",53,5,"60+",3,2,"Secondary",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",84,2,"30s",5,4,"College",0
+1,"Rights",96,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",82,2,"30s",6,5,"College",0
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",93,1,"20s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",76,2,"30s",6,5,"College",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",64,4,"50s",7,5,"Graduate",0
+2,"Vengeance",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",74,3,"40s",6,5,"College",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",65,3,"40s",4,3,"Secondary",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",88,1,"20s",6,5,"College",0
+1,"Rights",2,1,99,4,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",51,5,"60+",3,2,"Secondary",0
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",64,4,"50s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",49,5,"60+",3,2,"Secondary",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",67,3,"40s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",3,3,"Chinese",68,3,"桃園市","N_Taiwan",1,"Male",91,1,"20s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",67,3,"40s",7,5,"Graduate",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",87,1,"20s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",65,3,"40s",6,5,"College",1
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",83,2,"30s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",53,5,"60+",7,5,"Graduate",0
+2,"Vengeance",7,99,41,21,7,"TPP","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",68,3,"40s",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",94,1,"20s",6,5,"College",1
+2,"Vengeance",6,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",68,3,"40s",4,3,"Secondary",1
+1,"Rights",1,1,99,1,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",72,3,"40s",6,5,"College",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",74,3,"40s",7,5,"Graduate",0
+1,"Rights",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",90,1,"20s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",69,3,"40s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",74,3,"40s",7,5,"Graduate",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",68,3,"40s",5,4,"College",1
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",76,2,"30s",4,3,"Secondary",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",76,2,"30s",7,5,"Graduate",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",70,3,"40s",7,5,"Graduate",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",70,3,"40s",6,5,"College",0
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",97,9,NA,68,3,"桃園市","N_Taiwan",2,"Female",60,4,"50s",5,4,"College",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",76,2,"30s",4,3,"Secondary",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",3,3,"Chinese",68,3,"桃園市","N_Taiwan",1,"Male",57,4,"50s",5,4,"College",0
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",57,4,"50s",5,4,"College",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",49,5,"60+",5,4,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",65,3,"40s",7,5,"Graduate",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",53,5,"60+",3,2,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",69,3,"40s",6,5,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",56,4,"50s",4,3,"Secondary",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",73,3,"40s",7,5,"Graduate",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",3,3,"Chinese",68,3,"桃園市","N_Taiwan",1,"Male",47,5,"60+",4,3,"Secondary",1
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",70,3,"40s",5,4,"College",1
+2,"Vengeance",38,2,99,20,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",1,"Male",66,3,"40s",6,5,"College",1
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",65,3,"40s",4,3,"Secondary",0
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",80,2,"30s",6,5,"College",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",66,3,"40s",6,5,"College",1
+96,NA,7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",1,"Male",62,4,"50s",5,4,"College",NA
+1,"Rights",98,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",74,3,"40s",6,5,"College",0
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",68,3,"桃園市","N_Taiwan",2,"Female",85,1,"20s",7,5,"Graduate",0
+1,"Rights",96,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",86,1,"20s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",68,3,"桃園市","N_Taiwan",2,"Female",61,4,"50s",5,4,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",98,9,NA,68,3,"桃園市","N_Taiwan",1,"Male",83,2,"30s",7,5,"Graduate",0
+2,"Vengeance",19,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",95,9,NA,NA,1,"Male",43,5,"60+",2,1,"Elementary & Below",1
+1,"Rights",98,99,98,99,9,NA,NA,1,1,"Taiwanese",95,9,NA,NA,2,"Female",84,2,"30s",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",95,9,NA,NA,2,"Female",64,4,"50s",7,5,"Graduate",1
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",96,9,NA,95,9,NA,NA,1,"Male",995,9,NA,5,4,"College",1
+2,"Vengeance",6,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",95,9,NA,NA,1,"Male",995,9,NA,7,5,"Graduate",1
+98,NA,2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",95,9,NA,NA,2,"Female",40,5,"60+",2,1,"Elementary & Below",NA
+1,"Rights",7,99,4,6,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",95,9,NA,NA,1,"Male",75,2,"30s",6,5,"College",0
+1,"Rights",95,99,8,99,8,"Neutral","Neutral",1,1,"Taiwanese",95,9,NA,NA,1,"Male",92,1,"20s",6,5,"College",0
+2,"Vengeance",96,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",95,9,NA,NA,2,"Female",995,9,NA,95,9,NA,1
+96,NA,6,99,3,3,1,"Pan-Blue","KMT-TPP",3,3,"Chinese",95,9,NA,NA,1,"Male",69,3,"40s",5,4,"College",NA
+98,NA,7,99,8,99,8,"Neutral","Neutral",98,9,NA,95,9,NA,NA,2,"Female",69,3,"40s",95,9,NA,NA
+1,"Rights",6,99,8,99,8,"Neutral","Neutral",96,9,NA,98,9,NA,NA,1,"Male",83,2,"30s",6,5,"College",0
+1,"Rights",7,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",98,9,NA,NA,2,"Female",88,1,"20s",4,3,"Secondary",0
+2,"Vengeance",7,99,8,99,8,"Neutral","Neutral",98,9,NA,28,9,"福建省","N_Taiwan",2,"Female",53,5,"60+",4,3,"Secondary",1
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",28,9,"福建省","N_Taiwan",2,"Female",52,5,"60+",4,3,"Secondary",1
+1,"Rights",2,2,99,5,2,"Pan-Green","Pan-Green",1,1,"Taiwanese",28,9,"福建省","N_Taiwan",2,"Female",88,1,"20s",7,5,"Graduate",0
+2,"Vengeance",98,99,8,99,8,"Neutral","Neutral",2,2,"Dual identity",28,9,"福建省","N_Taiwan",1,"Male",54,5,"60+",7,5,"Graduate",1
+1,"Rights",1,2,99,2,1,"Pan-Blue","KMT-TPP",1,1,"Taiwanese",28,9,"福建省","N_Taiwan",2,"Female",63,4,"50s",4,3,"Secondary",0
+2,"Vengeance",1,2,99,2,1,"Pan-Blue","KMT-TPP",2,2,"Dual identity",28,9,"福建省","N_Taiwan",1,"Male",48,5,"60+",6,5,"College",1
+2,"Vengeance",1,1,99,1,1,"Pan-Blue","KMT-TPP",98,9,NA,28,9,"福建省","N_Taiwan",1,"Male",46,5,"60+",2,1,"Elementary & Below",1
+2,"Vengeance",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",28,9,"福建省","N_Taiwan",1,"Male",78,2,"30s",4,3,"Secondary",1
+1,"Rights",38,1,99,19,7,"TPP","KMT-TPP",2,2,"Dual identity",28,9,"福建省","N_Taiwan",1,"Male",70,3,"40s",6,5,"College",0
